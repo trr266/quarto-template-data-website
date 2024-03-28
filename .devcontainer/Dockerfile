@@ -17,6 +17,6 @@ RUN apt-get update && \
     pip install --upgrade pip && \
     pip install -r requirements.txt
 
-COPY docs/
+COPY docs/ .
 
 CMD ["quarto", "render", "docs", "--no-execute-daemon"]
