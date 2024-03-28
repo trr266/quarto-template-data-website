@@ -1,4 +1,4 @@
-# Github Actions / Template
+# GitHub Actions / Template
 
 A project of the [Open Science Data Center][c02]
 
